@@ -2,6 +2,8 @@
 name = "testing_tasks"
 version = "0.1.0"
 dependencies = [
+    "aiofiles>=24.1.0",
+    "aiohttp>=3.11.16",
     "ruff>=0.11.2",
 ]
 

@@ -1,0 +1,4 @@
+https://petstore.swagger.io/v2/store/inventory
+https://petstore.swagger.io/v2/pet/findByStatus?status=available
+https://httpbin.org/status/404
+https://nonexistent.url
