@@ -1,9 +1,9 @@
-import json
-import time
-import random
-import multiprocessing
-from multiprocessing import Process, Queue, cpu_count
 import concurrent.futures
+import json
+import multiprocessing
+import random
+import time
+from multiprocessing import Process, cpu_count
 
 
 def generate_data(n):
